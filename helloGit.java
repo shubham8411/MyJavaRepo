@@ -1,7 +1,7 @@
 class hello{
 
-void myMethod(){
-system.out.println("my method");
+void display(){
+system.out.println("Display date");
 }
 
 public static void main(String args[]){
