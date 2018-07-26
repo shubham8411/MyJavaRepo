@@ -7,6 +7,8 @@ void display(){
 public static void main(String args[]){
 	System.out.println("hello...welcome to GIT
  ");
+	hello h = new Hello();
+	h.display();
 }
 
 }
