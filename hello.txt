@@ -1,6 +1,6 @@
 class hello{
 
-main(){
+public static void main(){
 	sop("hello ");
 }
 
