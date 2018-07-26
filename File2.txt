@@ -4,3 +4,4 @@ file 2 created
 
 change 1 
 change 2 --made on remote
+change 3 --made on remote for pull
