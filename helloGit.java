@@ -1,7 +1,7 @@
 class hello{
 
 void display(){
-system.out.println("Display date");
+	system.out.println("Display Todays date");
 }
 
 public static void main(String args[]){
